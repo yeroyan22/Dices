@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dices Game</string>
+    <string name="button_roll">ROLL</string>
+    <string name="button_roll2">ROLL</string>
+    <string name="player_one">Player 1</string>
+    <string name="player_two">Player 2</string>
+
+</resources>
